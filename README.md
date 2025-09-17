@@ -1,6 +1,6 @@
 <!-- Greeting Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&width=435&lines=Hi%2C+I'm+Sandeep+Mopidevi+%F0%9F%91%8B;Jr.+Software+Engineer+%7C+AI+Researcher;Tech+Creator+%7C+Mentor+%F0%9F%92%BB;Welcome+to+my+GitHub+profile!" alt="Greeting Animation" />
+<div align="center" style="margin-bottom:20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&width=800&height=70&lines=Hi%2C+I'm+Sandeep+Mopidevi+%F0%9F%91%8B;Jr.+Software+Engineer+%7C+AI+Researcher;Tech+Creator+%7C+Mentor+%F0%9F%92%BB;Welcome+to+my+GitHub+profile!" alt="Greeting Animation" />
 </div>
 
 ---
@@ -13,7 +13,6 @@ I'm Sandeep Mopidevi, a passionate .NET Full Stack Developer specializing in C# 
 - 🛠️ **Tech Stack:** C#, ASP.NET, Angular, SQL Server, HTML, CSS, JavaScript, React, Node.js, Python  
 - 🎓 **Education:** BTech in Computer Science ([Gudlavalleru Engineering College](https://www.gudlavalleru.ac.in/)), April 2025  
 - 👨‍💻 **Past Experience:** Angular Developer at Infosys Springboard, Web Dev Lead at Google Developer Students Club
-
 
 ---
 
@@ -34,6 +33,7 @@ I'm Sandeep Mopidevi, a passionate .NET Full Stack Developer specializing in C# 
 [![Linktree](https://img.shields.io/badge/Linktree-43E55B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sandeepmopidev1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mopidevi.DurgaSaiSandeep@cognizant.com)
 
+---
 
 ## 🎥 Content Creator
 
